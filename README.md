@@ -1,15 +1,19 @@
 # compiler
 implementation of a compiler based on the java compiler
 
-compiles x source code ".x files"
+compiles psuedo source code
 
 
-school software project 
+Compiler Classes
 
-contains constrainer:
+constrainer, source reader , lexer , parser , ast and tree classes
 
- source reader , lexer , parser , ast and tree classes
+
+Execution Classes
  
- vm/intepreter and byte code class
+vm/intepreter and byte code class
  
- debugger / debug class and debug bytecode
+debugger/debug class and debug bytecode
+
+
+debugger class implements a debugging mode for source code execution 
