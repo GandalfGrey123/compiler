@@ -12,7 +12,7 @@ Utilizes standard library
 
 <br>
 
-Compiler Classes
+<u>Compiler Classes</u>
 
 `SourceReader`
  <ul>
@@ -37,7 +37,7 @@ Ast and Code Gen
 
 <br>
 
-Execution Classes
+<u>Execution Classes</u>
  
 `Intepreter`
  <ul>
