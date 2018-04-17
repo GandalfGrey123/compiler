@@ -35,14 +35,14 @@ Compilation Classes
    <li>Create a abstract syntax tree</li> 
 </ul>
 
-`Constrainer`
+
 
 `Vistor`
  <ul> 
  <li>vistor walks syntax node style tree </li> 
 </ul>
 
-`Ast Classes` and `Code Gen`
+`Constrainer` `Ast Classes` and `Code Gen`
 
 
 <br>
