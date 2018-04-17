@@ -28,12 +28,12 @@ Compilation Classes
    <li>dynamically tokenize source code symbols into token objects</li>
 </ul>
 
+`Parser`
 
-Constrainer 
 
-Parser 
+`Constrainer`
 
-Ast and Code Gen
+`Vistor` `Ast Classes` and `Code Gen`
 
 
 <br>
