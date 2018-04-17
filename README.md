@@ -32,17 +32,25 @@ Compilation Classes
  <ul> 
  <li>Analyze token stream</li> 
   <li>check source code syntax and semantics </li> 
-   <li>Create a abstract syntax tree</li> 
+   <li>Create a program tree (syntax tree)</li> 
 </ul>
 
 
 
 `Vistor`
  <ul> 
- <li>vistor walks syntax node style tree </li> 
+ <li>vistor walks syntax tree </li> 
+ <li>syntax tree uses dynamic binding</li>
+  <li> creates bytecode </li> 
 </ul>
 
-`Constrainer` `Ast Classes` and `Code Gen`
+`Constrainer`
+ <ul> 
+ <li>decorate syntax tree </li> 
+</ul>
+
+
+`Ast Classes` and `Code Gen`
 
 
 <br>
@@ -76,5 +84,7 @@ Can run debugger mode given command line argument upon execution
 compiler/Debugger contains Debug bytecode
 
 saves source line numbers
+
+has stack dump for trace
 
 
