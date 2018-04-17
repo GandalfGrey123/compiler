@@ -14,7 +14,7 @@ Utilizes standard library
 
 Compiler Classes
 
-Source reader 
+`SourceReader`
  <ul>
   <li>
    reads target source file
