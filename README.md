@@ -8,6 +8,10 @@ Entirely impemeneted in Java, Reads block style source code into interpretable o
 
 Compiles psuedo basic source code "x code" .x files
 
+Source code is tokenized, has syntax and semantics anaylzation, and turned into `ByteCode` using Java reflection.
+
+Interpreter executes ByteCode objects.
+
 Utilizes standard library
 
 <br>
@@ -80,6 +84,8 @@ Degugg Mode
 ------
  
 Can run debugger mode given command line argument upon execution
+
+RunStack & StackFrame
 
 compiler/Debugger contains Debug bytecode
 
