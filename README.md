@@ -63,4 +63,9 @@ Degugg Mode
 ------
  
 Can run debugger mode given command line argument upon execution
-/Debugger contains Debug bytecode and debug interpretation
+
+compiler/Debugger contains Debug bytecode
+
+saves source line numbers
+
+
