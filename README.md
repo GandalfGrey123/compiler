@@ -1,13 +1,28 @@
 # compiler
-implementation of a compiler based on the java compiler
 
-compiles psuedo source code
+<h1>Java Like Compiler </h1>
+
+Full functional Java like compiler
+
+Entirely impemeneted in Java, Reads source code into interpretable objects
+
+Compiles psuedo basic source code "x code" .x files
 
 <br>
 
 Compiler Classes
 
-constrainer, source reader , lexer , parser , ast and tree classes
+Constraine 
+
+Source reader 
+
+Lexer 
+utilizes the String Tokenizer class 
+reads source file and 
+
+Parser 
+
+Ast and Code Gen
 
 
 <br>
