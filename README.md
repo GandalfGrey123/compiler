@@ -29,11 +29,20 @@ Compilation Classes
 </ul>
 
 `Parser`
-
+ <ul> 
+ <li>Analyze token stream</li> 
+  <li>check source code syntax and semantics </li> 
+   <li>Create a abstract syntax tree</li> 
+</ul>
 
 `Constrainer`
 
-`Vistor` `Ast Classes` and `Code Gen`
+`Vistor`
+ <ul> 
+ <li>vistor walks syntax node style tree </li> 
+</ul>
+
+`Ast Classes` and `Code Gen`
 
 
 <br>
