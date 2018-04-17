@@ -23,7 +23,7 @@ Compiler Classes
 
 `Lexer` 
  <ul> 
-   <li>utilizes the String Tokenizer class </li>
+   <li>tokenizes each char read in from `SourceReader`</li>
    <li>dynamically tokenize source code symbols into token objects</li>
 </ul>
 
