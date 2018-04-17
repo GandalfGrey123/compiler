@@ -12,7 +12,7 @@ Compiles psuedo basic source code "x code" .x files
 
 Compiler Classes
 
-Constraine 
+Constrainer 
 
 Source reader 
  <ul>
