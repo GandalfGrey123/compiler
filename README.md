@@ -2,7 +2,7 @@
 
 <h1>Java Like Compiler </h1>
 
-Fully functional "Java Style" JVM Compiler
+Fully functional "Java Style" JVM Compiler , implemented with optional debug mode
 
 Entirely impemeneted in Java, Reads block style source code into interpretable objects
 
@@ -10,7 +10,7 @@ Compiles psuedo basic source code "x code" .x files
 
 Source code is tokenized, has syntax and semantics anaylzation, and turned into `ByteCode` using Java reflection.
 
-Interpreter executes ByteCode objects.
+Interpreter executes `ByteCode` objects.
 
 Utilizes standard library
 
