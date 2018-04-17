@@ -4,7 +4,7 @@
 
 Full functional Java like compiler
 
-Entirely impemeneted in Java, Reads source code into interpretable objects
+Entirely impemeneted in Java, Reads block style source code into interpretable objects
 
 Compiles psuedo basic source code "x code" .x files
 
