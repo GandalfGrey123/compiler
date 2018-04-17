@@ -16,21 +16,15 @@ Compiler Classes
 
 `SourceReader`
  <ul>
-  <li>
-   reads target source file
-  </li>
- 
- <li>
-   read in line number and each line for debugging
-  </li>
+  <li>reads target source file </li>
+ <li>read in line number and each line for debugging</li>
  
  </ul>
 
-Lexer 
+`Lexer` 
  <ul> 
    <li>utilizes the String Tokenizer class </li>
    <li>dynamically tokenize source code symbols into token objects</li>
- 
 </ul>
 
 
