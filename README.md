@@ -39,7 +39,22 @@ Ast and Code Gen
 
 Execution Classes
  
-vm/intepreter and byte code class
+`Intepreter`
+ <ul>
+  <li> Creates Program object and loads byte codes into Program object</li>
+   <li> </li>
+ </ul>
+
+`Virtual Machine`
+ <ul>
+  <li> Execute ByteCode objects loaded into the interpreters Program object</li>
+ </ul>
+
+
+`ByteCode`
+ <ul>
+ <li>Abstract class used to implement different byte codes objects</li>
+ </ul>
  
 debugger/debug class and debug bytecode
 
