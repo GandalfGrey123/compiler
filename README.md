@@ -8,25 +8,33 @@ Entirely impemeneted in Java, Reads source code into interpretable objects
 
 Compiles psuedo basic source code "x code" .x files
 
+Utilizes standard library
+
 <br>
 
 Compiler Classes
-
-Constrainer 
 
 Source reader 
  <ul>
   <li>
    reads target source file
   </li>
- <ul>
+ 
+ <li>
+   read in line number and each line for debugging
+  </li>
+ 
+ </ul>
 
 Lexer 
  <ul> 
-  <li>utilizes the String Tokenizer class </li>
-   <li>creates source reader</li>
+   <li>utilizes the String Tokenizer class </li>
+   <li>dynamically tokenize source code symbols into token objects</li>
+ 
 </ul>
 
+
+Constrainer 
 
 Parser 
 
