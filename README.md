@@ -2,7 +2,7 @@
 
 <h1>Java Like Compiler </h1>
 
-Full functional Java like compiler
+Fully functional "Java Style" JVM Compiler
 
 Entirely impemeneted in Java, Reads block style source code into interpretable objects
 
