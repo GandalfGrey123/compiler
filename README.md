@@ -12,7 +12,8 @@ Utilizes standard library
 
 <br>
 
-<u>Compiler Classes</u>
+Compilation Classes
+------
 
 `SourceReader`
  <ul>
@@ -37,7 +38,8 @@ Ast and Code Gen
 
 <br>
 
-<u>Execution Classes</u>
+Degugger and Execution Classes
+------
  
 `Intepreter`
  <ul>
