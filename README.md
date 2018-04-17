@@ -38,7 +38,7 @@ Ast and Code Gen
 
 <br>
 
-Degugger and Execution Classes
+Execution Classes
 ------
  
 `Intepreter`
@@ -58,7 +58,9 @@ Degugger and Execution Classes
  <li>Abstract class used to implement different byte codes objects</li>
  </ul>
  
-debugger/debug class and debug bytecode
-
-
-debugger class implements a debugging mode for source code execution 
+ 
+Degugg Mode
+------
+ 
+Can run debugger mode given command line argument upon execution
+/Debugger contains Debug bytecode and debug interpretation
