@@ -1,4 +1,4 @@
-# compiler
+
 
 <h1>Java Like Compiler </h1>
 
@@ -15,10 +15,18 @@ Compiler Classes
 Constraine 
 
 Source reader 
+ <ul>
+  <li>
+   reads target source file
+  </li>
+ <ul>
 
 Lexer 
-utilizes the String Tokenizer class 
-reads source file and 
+ <ul> 
+  <li>utilizes the String Tokenizer class </li>
+   <li>creates source reader</li>
+</ul>
+
 
 Parser 
 
